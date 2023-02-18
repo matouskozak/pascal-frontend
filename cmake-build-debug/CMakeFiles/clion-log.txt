@@ -1,6 +1,0 @@
-/home/matous/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/183.5153.40/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/matous/Documents/MEGA/CVUT_FIT/Semester_4/PJP/semester_work/llvm/pas_compiler
--- Found LLVM 6.0.0
--- Using LLVMConfig.cmake in: /usr/lib/llvm-6.0/cmake
--- Configuring done
--- Generating done
--- Build files have been written to: /home/matous/Documents/MEGA/CVUT_FIT/Semester_4/PJP/semester_work/llvm/pas_compiler
