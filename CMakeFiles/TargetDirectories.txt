@@ -1,0 +1,4 @@
+/home/matous/Documents/MEGA/CVUT_FIT/Semester_4/PJP/semester_work/llvm/pas_compiler/CMakeFiles/edit_cache.dir
+/home/matous/Documents/MEGA/CVUT_FIT/Semester_4/PJP/semester_work/llvm/pas_compiler/CMakeFiles/intrinsics_gen.dir
+/home/matous/Documents/MEGA/CVUT_FIT/Semester_4/PJP/semester_work/llvm/pas_compiler/CMakeFiles/rebuild_cache.dir
+/home/matous/Documents/MEGA/CVUT_FIT/Semester_4/PJP/semester_work/llvm/pas_compiler/CMakeFiles/pas_compiler.dir
